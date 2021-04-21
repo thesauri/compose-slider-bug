@@ -5,7 +5,6 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.ExperimentalComposeUiApi
 
 @Composable
-@ExperimentalComposeUiApi
 fun SliderScreen() {
     var callCounter by remember { mutableStateOf(0) }
     var value by remember { mutableStateOf(0f) }

@@ -10,7 +10,6 @@
 [SliderScreen.kt](app/src/main/java/dev/berggren/SliderScreen.kt):
 ```
 @Composable
-@ExperimentalComposeUiApi
 fun SliderScreen() {
     var callCounter by remember { mutableStateOf(0) }
     var value by remember { mutableStateOf(0f) }
