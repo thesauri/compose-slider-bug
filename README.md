@@ -30,3 +30,6 @@ I/System.out: onValueChangeFinished called 1 times
 I/System.out: onValueChangeFinished called 2 times
 ```
 
+## Bug report
+https://issuetracker.google.com/issues/185923319
+
